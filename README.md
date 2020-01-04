@@ -1,4 +1,7 @@
-=== tb2wp ===
-Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+## tb2wp
 
-A starter theme based on tb2wp by Automattic.
+### Bootstrap to WP theme
+
+### A custom theme based on starter theme by Automattic.
+
+### Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
